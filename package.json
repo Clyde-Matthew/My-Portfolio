@@ -6,14 +6,14 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "npm run build"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Clyde-Matthew/My-Portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "clyde matthew",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Clyde-Matthew/My-Portfolio/issues"
